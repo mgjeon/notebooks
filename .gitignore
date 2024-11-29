@@ -3,3 +3,5 @@
 **/*.jpg
 **/lightning_logs
 **/mgjeon
+**/*.npz
+**/*.pth
