@@ -1,5 +1,6 @@
 **/data
 **/outputs
+**/models
 **/*.jpg
 **/lightning_logs
 **/mgjeon
@@ -8,3 +9,4 @@
 **/*.pt
 **/*.mp4
 **/*.csv
+**/course22p2/
