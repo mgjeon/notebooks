@@ -13,3 +13,8 @@
 **/.ipynb_checkpoints/
 **/out/
 **/*.joblib
+**/optuna_test/
+**/*.pkl
+**/AutogluonModels/
+**/ag_multimodal_tutorial/
+**/autogluon-m4-hourly/
