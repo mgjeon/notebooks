@@ -18,3 +18,6 @@
 **/AutogluonModels/
 **/ag_multimodal_tutorial/
 **/autogluon-m4-hourly/
+**/*.torchscript
+**/datasets/
+**/runs/
