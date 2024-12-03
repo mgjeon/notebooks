@@ -21,3 +21,4 @@
 **/*.torchscript
 **/datasets/
 **/runs/
+**/hapicache
