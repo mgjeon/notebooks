@@ -22,3 +22,6 @@
 **/datasets/
 **/runs/
 **/hapicache
+PyHC/**/*.txt
+PyHC/**/*.svg
+PyHC/**/cachedir
