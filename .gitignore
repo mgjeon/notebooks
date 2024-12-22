@@ -25,3 +25,4 @@
 PyHC/**/*.txt
 PyHC/**/*.svg
 PyHC/**/cachedir
+**/*.cdf
