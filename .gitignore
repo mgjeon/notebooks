@@ -29,3 +29,5 @@ PyHC/**/cachedir
 Neuromancer/**/*.png
 **/demreg/demreg
 **/__pycache__/
+PyHC/**/pyspedas/*data/
+PyHC/**/pyspedas/mth5
