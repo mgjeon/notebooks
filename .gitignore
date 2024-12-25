@@ -30,4 +30,6 @@ Neuromancer/**/*.png
 **/demreg/demreg
 **/__pycache__/
 PyHC/**/pyspedas/*data/
-PyHC/**/pyspedas/mth5
+PyHC/**/pyspedas/mth5/
+PyHC/**/spacepy/*tutorial/
+PyHC/**/spacepy/*.h5
