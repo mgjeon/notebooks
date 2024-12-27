@@ -34,3 +34,4 @@ PyHC/**/pyspedas/mth5/
 PyHC/**/spacepy/*tutorial/
 PyHC/**/spacepy/*.h5
 Solarsoft/**/*.fits
+PyHC/**/solarmach/*.png
