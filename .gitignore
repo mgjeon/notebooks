@@ -35,3 +35,4 @@ PyHC/**/spacepy/*tutorial/
 PyHC/**/spacepy/*.h5
 Solarsoft/**/*.fits
 PyHC/**/solarmach/*.png
+PyHC/**/Kamodo/*.png
