@@ -36,3 +36,6 @@ PyHC/**/spacepy/*.h5
 Solarsoft/**/*.fits
 PyHC/**/solarmach/*.png
 PyHC/**/Kamodo/*.png
+PyHC/**/KAMODO_DEMO/
+PyHC/**/*_data/
+PyHC/**/pysat/MODEL*/
