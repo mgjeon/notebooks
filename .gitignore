@@ -39,3 +39,7 @@ PyHC/**/Kamodo/*.png
 PyHC/**/KAMODO_DEMO/
 PyHC/**/*_data/
 PyHC/**/pysat/MODEL*/
+SpaceML/SDOML/*.txt
+SpaceML/SDOML/*.png
+SpaceML/SDOML/*.sav
+Sunpy/aiapy/*.txt

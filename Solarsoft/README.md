@@ -19,3 +19,7 @@ tcsh> setenv SSW ~/ssw
 tcsh> source $SSW/gen/setup/setup.ssw
 tcsh> sswidl
 ```
+
+## External IDL Libraries
+
+https://github.com/afteriwoof/CORIMP
