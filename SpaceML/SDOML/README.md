@@ -1,0 +1,2 @@
+- https://github.com/SDOML
+- https://github.com/oxai4science/sdoml-lite

@@ -8,3 +8,14 @@ After installing and setting up SSW, start SSW IDL by:
 
 - Windows: Run the batch file usually called $SSW/site/setup/sswidl.bat (or a shortcut to it on your desktop)
 - Unix: Type sswidl
+
+```
+bash$ which idl
+/usr/local/bin/idl
+
+sudo apt install tcsh
+tcsh> setenv IDL_DIR /usr/local
+tcsh> setenv SSW ~/ssw
+tcsh> source $SSW/gen/setup/setup.ssw
+tcsh> sswidl
+```
