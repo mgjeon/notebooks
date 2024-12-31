@@ -23,3 +23,9 @@ tcsh> sswidl
 ## External IDL Libraries
 
 https://github.com/afteriwoof/CORIMP
+
+## Issue
+
+If you run the vso_search() function in Windows environment and IDL is turned off without any message, first open the dmp file in %HOMEPATH%\AppData\Local\CrashDumps with WinDbg and run !analyze -v to find the cause.
+
+In my case, the problem was libcurl.dll, so I downloaded the curl for Windows zip file from https://curl.se/windows/ and moved the libcurl-x64.dll file under the bin folder to C:\Program Files\Harris\IDL86\bin\bin.x86_64\libcurl.dll, and it worked.
