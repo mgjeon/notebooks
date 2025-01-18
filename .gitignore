@@ -43,3 +43,5 @@ SpaceML/SDOML/*.txt
 SpaceML/SDOML/*.png
 SpaceML/SDOML/*.sav
 Sunpy/aiapy/*.txt
+HuggingFace/**/*.json
+HuggingFace/**/*.safetensors
