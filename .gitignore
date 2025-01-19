@@ -45,3 +45,8 @@ SpaceML/SDOML/*.sav
 Sunpy/aiapy/*.txt
 HuggingFace/**/*.json
 HuggingFace/**/*.safetensors
+!SSW_WinterSchool/**/00_overview/data
+!SSW_WinterSchool/**/01_upper_atmosphere/data
+SSW_WinterSchool/**/01_upper_atmosphere/data/Madrigal_TEC
+SSW_WinterSchool/**/01_upper_atmosphere/data/SSUSI
+!SSW_WinterSchool/**/02_magnetosphere/data
