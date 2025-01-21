@@ -1,6 +1,6 @@
-**/data
-**/outputs
-**/models
+# **/data
+# **/outputs
+# **/models
 **/*.jpg
 **/lightning_logs
 **/mgjeon
@@ -11,7 +11,7 @@
 **/*.csv
 **/course22p2/
 **/.ipynb_checkpoints/
-**/out/
+# **/out/
 **/*.joblib
 **/optuna_test/
 **/*.pkl
@@ -45,8 +45,8 @@ SpaceML/SDOML/*.sav
 Sunpy/aiapy/*.txt
 HuggingFace/**/*.json
 HuggingFace/**/*.safetensors
-!SSW_WinterSchool/**/00_overview/data
-!SSW_WinterSchool/**/01_upper_atmosphere/data
-SSW_WinterSchool/**/01_upper_atmosphere/data/Madrigal_TEC
-SSW_WinterSchool/**/01_upper_atmosphere/data/SSUSI
-!SSW_WinterSchool/**/02_magnetosphere/data
+SSW_WinterSchool/01_upper_atmosphere/data/**/*.png
+SSW_WinterSchool/01_upper_atmosphere/data/**/*.hdf5
+SSW_WinterSchool/01_upper_atmosphere/data/**/*.nc
+SpaceML/**/*.fits
+SpaceWeather/**/*.INX
