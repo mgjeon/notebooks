@@ -50,6 +50,6 @@ SSW_WinterSchool/01_upper_atmosphere/data/**/*.hdf5
 SSW_WinterSchool/01_upper_atmosphere/data/**/*.nc
 SpaceML/**/*.fits
 SpaceWeather/**/*.INX
-Huggingface/nlp_course/unit02_using_transformers/dir_*
-Huggingface/nlp_course/unit03_fine_tuning/test-trainer/
+Huggingface/course_nlp/unit02_using_transformers/dir_*
+Huggingface/course_nlp/unit03_fine_tuning/test-trainer/
 Huggingface/diffusers/00_get_started/*.png
