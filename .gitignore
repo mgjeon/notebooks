@@ -62,3 +62,6 @@ NeRF/repo/
 NeRF/papers*/**/novel_views/
 NeRF/output*/
 CFD/repo/
+.DS_Store
+Book/Computational_Physics_Anagnostopoulos/ComputationalPhysicsKNA
+Book/Numerical_Python_Schmidt/*.pdf
