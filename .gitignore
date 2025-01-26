@@ -58,3 +58,6 @@ Huggingface/course_deep_RL/unit1_bonus/results
 Huggingface/course_deep_RL/unit1_bonus/trained*
 Huggingface/course_deep_RL/unit3*/hub
 Huggingface/course_deep_RL/unit3*/logs
+NeRF/repo/
+NeRF/papers*/**/novel_views/
+NeRF/output*/

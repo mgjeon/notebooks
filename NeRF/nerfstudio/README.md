@@ -1,0 +1,3 @@
+- [nerfstudio official](https://docs.nerf.studio/)
+- [nerfsutdio github](https://github.com/nerfstudio-project/nerfstudio)
+- [Nerfstudio (with COLMAP + HLOC + FFMPEG) on Windows via WSL2](https://gist.github.com/SharkWipf/0a3fc1be3ea88b0c9640db6ce15b44b9)
