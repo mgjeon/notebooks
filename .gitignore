@@ -66,3 +66,6 @@ CFD/repo/
 Book/CompPhys*/_code
 Book/Numerical_Python_Schmidt/*.pdf
 Book/Numerical_Python_Schmidt/_code/
+**/.RData
+**/.Rhistory
+**/.spyproject
