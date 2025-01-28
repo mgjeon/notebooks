@@ -69,3 +69,5 @@ Book/Numerical_Python_Schmidt/_code/
 **/.RData
 **/.Rhistory
 **/.spyproject
+Book/Scientific_Python/scientific-python-lectures/
+!Book/Scientific_Python/**/*.csv
