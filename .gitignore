@@ -73,3 +73,7 @@ Book/Scientific_Python/scientific-python-lectures/
 !Book/Scientific_Python/**/*.csv
 Book/Think_Stats/*.dct
 Book/Think_Stats/*.dat.gz
+LLM/**/*.jpg
+LLM/**/*.jpeg
+LLM/**/*.png
+!LLM/Google/scissors-321238_640.jpg

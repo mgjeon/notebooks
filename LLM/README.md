@@ -1,17 +1,15 @@
 # LLM
 
 - https://github.com/ollama/ollama
-
-## UI
 - https://github.com/open-webui/open-webui
+- https://huggingface.co/chat/
+- https://github.com/mistralai
+- https://github.com/deepseek-ai
 
 ## Meta
-- https://www.llama.com/docs/get-started/
+- https://www.llama.com/
+- https://github.com/meta-llama/llama-cookbook
 
 ## Google
-- https://ai.google.dev/gemma/docs
-- https://ai.google.dev/gemini-api/docs
-- https://aistudio.google.com
-
-## Hugging Face
-- https://huggingface.co/chat/
+- https://ai.google.dev/
+- https://github.com/google-gemini/cookbook
