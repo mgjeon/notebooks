@@ -77,3 +77,4 @@ LLM/**/*.jpg
 LLM/**/*.jpeg
 LLM/**/*.png
 !LLM/Google/scissors-321238_640.jpg
+LLM/**/gemma-pytorch/
