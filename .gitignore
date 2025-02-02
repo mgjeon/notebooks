@@ -80,3 +80,5 @@ LLM/**/*.png
 LLM/**/gemma-pytorch/
 Book/**/python-scraping/
 Book/**/machine-learning-book
+Huggingface/library/transformers/00_get_started/pt_save_pretrained
+!Huggingface/library/datasets
