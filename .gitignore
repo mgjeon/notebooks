@@ -82,3 +82,6 @@ Book/**/python-scraping/
 Book/**/machine-learning-book
 Huggingface/library/transformers/00_get_started/pt_save_pretrained
 !Huggingface/library/datasets
+Book/Data_driven/CODE*
+Book/Data_driven/DATA*
+Book/Data_driven/*.zip
