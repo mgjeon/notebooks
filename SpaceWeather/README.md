@@ -12,6 +12,9 @@
 - [SpaceWeather.com](https://spaceweather.com/)
 - [KSWRC 우주환경연구센터](https://kswrc.kasi.re.kr/ko)
 - [Jeong, HJ](https://www.jeonghyunjin.com/)
+- https://helioforecast.space/dashboard
+- https://weather.pcmojo.org/sw.html
+- https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
 
 ## Observations
 - [Solar Monitor](https://solarmonitor.org)
