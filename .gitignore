@@ -91,3 +91,5 @@ Huggingface/course/course_nlp/**/*.zip
 Huggingface/course/course_nlp/**/*.tsv
 Huggingface/course/course_nlp/**/*reviews/
 Huggingface/course/course_nlp/**/*.gz
+Huggingface/course/course_nlp/**/.env
+Huggingface/course/course_nlp/**/code-search*
