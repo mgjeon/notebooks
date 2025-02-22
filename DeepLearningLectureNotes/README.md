@@ -6,8 +6,8 @@
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/)
 - [Dive into Deep Learning](https://d2l.ai/)
-- [Deep Learning](https://www.deeplearningbook.org/
- )
+- [Deep Learning](https://www.deeplearningbook.org/)
+- [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html#)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Practical Deep Learning](https://course.fast.ai/)
 

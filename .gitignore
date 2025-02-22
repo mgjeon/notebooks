@@ -85,3 +85,9 @@ Huggingface/library/transformers/00_get_started/pt_save_pretrained
 Book/Data_driven/CODE*
 Book/Data_driven/DATA*
 Book/Data_driven/*.zip
+Huggingface/course/course_nlp/**/*.json
+Huggingface/course/course_nlp/**/*.jsonl
+Huggingface/course/course_nlp/**/*.zip
+Huggingface/course/course_nlp/**/*.tsv
+Huggingface/course/course_nlp/**/*reviews/
+Huggingface/course/course_nlp/**/*.gz
