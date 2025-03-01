@@ -1,0 +1,1 @@
+https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E

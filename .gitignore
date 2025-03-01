@@ -93,3 +93,10 @@ Huggingface/course/course_nlp/**/*reviews/
 Huggingface/course/course_nlp/**/*.gz
 Huggingface/course/course_nlp/**/.env
 Huggingface/course/course_nlp/**/code-search*
+Book/Learn*/files/
+Book/Modern_Computer*/**/data
+Book/**/P1_Facial_Keypoints/
+MLflow/data
+MLflow/mlartifacts
+MLflow/mlruns
+MLflow/*.txt
