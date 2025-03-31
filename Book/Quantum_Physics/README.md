@@ -1,0 +1,1 @@
+French and Taylor (1978), "An Introduction to Quantum Physics"
